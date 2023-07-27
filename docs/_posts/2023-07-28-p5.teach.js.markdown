@@ -1,0 +1,16 @@
+---
+layout: post
+title: "p5.teach.js"
+date: 2023-07-26 10:56:14 +0530
+categories: jekyll update
+---
+
+[p5.teach.js](https://github.com/two-ticks/p5.teach.js) is a beginner friendly library for p5.js. It is a wrapper around p5.js, which makes it easier to use p5.js for beginners to animate mathematical concepts.
+
+### Overview
+
+During the **Google Summer of Code '21**, I worked on p5.teach, under the mentorship of [**Jithin KS**](https://github.com/JithinKS97) and [**Nick McIntyre**](https://github.com/nickmcintyre). The goal of this project was to build an addon library for teaching maths through animations and simulations. It will provide users friendly API for creating text, TeX, and shape animations.  
+The major goals of this project were:
+
+1.  Development of animation methods and controls
+2.  Support for TeX

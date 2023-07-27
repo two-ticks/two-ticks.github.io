@@ -1,6 +1,16 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
 ---
+
+{% include sidebar.html %}
+
+## Hi there! :wave:
+
+Welcome to my blog! Here I share my thoughts and ideas. I will be posting about my research, my projects, and my experiences.
+
+## Posts
+
+{% for post in site.posts %}
+
+:bookmark_tabs: [ {{ post.title }} ]({{ post.url }})
+{% endfor %}
