@@ -23,8 +23,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   I am TwoTicks (Aditya Siddheshwar), writing about stuff I like mostly Error Correcting Codes, 
   Information Theory, Mathematics, Programming and other stuff.
 
-baseurl: "/docs" # the subpath of your site, e.g. /blog
-url: "http://two-ticks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /docs # the subpath of your site, e.g. /blog
+url: http://two-ticks.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username: two-ticks
 
 ignore_theme_config: true # this means to ignore theme's config _config.yml
