@@ -1,0 +1,57 @@
+<!-- Sidebar -->
+<aside class="sidebar">
+  <div class="about">
+    <div class="cover-author-image">
+      <a href="{{site.baseurl}}/"
+        ><img
+          src="{{site.baseurl}}/assets/img/{% if site.author-img %}{{site.author-img}}{% endif %}"
+          alt="{{site.author}}"
+      /></a>
+    </div>
+    <div class="author-name">{{site.author}}</div>
+    <p>{{site.about-author}}</p>
+
+    <div class="contact">
+      <h3 class="contact-title"></h3>
+      <ul>
+        <li>
+          <a
+            href="https://twitter.com/{{ site.social-twitter }}"
+            target="_blank"
+            ><i class="fa fa-twitter" aria-hidden="true"></i
+          ></a>
+        </li>
+
+        <li class="github">
+          <a href="http://github.com/{{site.social-github}}" target="_blank"
+            ><i class="fa fa-github"></i
+          ></a>
+        </li>
+
+        <li class="linkedin">
+          <a
+            href="https://in.linkedin.com/in/{{site.social-linkedin}}"
+            target="_blank"
+            ><i class="fa fa-linkedin"></i
+          ></a>
+        </li>
+
+        <li class="instagram">
+          <a
+            href="https://instagram.com/{{site.social-instagram}}"
+            target="_blank"
+            ><i class="fa fa-instagram"></i
+          ></a>
+        </li>
+      </ul>
+    </div>
+  </div>
+
+  <link rel="stylesheet" href="{{"/assets/css/main.css" |
+  prepend:site.baseurl}}">
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+  />
+</aside>
+<!-- End Sidebar -->
