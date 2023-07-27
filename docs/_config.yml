@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I am TwoTicks (Aditya Siddheshwar), writing about stuff I like mostly Error Correcting Codes, 
   Information Theory, Mathematics, Programming and other stuff.
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/two-ticks.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: two-ticks
 
@@ -33,7 +33,7 @@ ignore_theme_config: true # this means to ignore theme's config _config.yml
 author: Aditya Siddheshwar # add your name
 author-img: two_ticks.png # add your photo
 about-author: >-
-  I often go by the name two-ticks. I love Information Theory and Coding Theory. I am currently working in the area of Error Correcting Codes.
+  I often go by the name TwoTicks. I love Information Theory and Coding Theory. I am currently working in the area of Error Correcting Codes.
 social-twitter: two__ticks
 social-github: two-ticks
 social-linkedin: aditya-siddheshwar
