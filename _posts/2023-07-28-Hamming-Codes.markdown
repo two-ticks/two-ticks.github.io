@@ -258,3 +258,6 @@ ax.grid(True)
 plt.tight_layout()
 plt.legend()
 {% endhighlight %}
+
+The plot is as follows:
+![Hamming Code - (7, 4)](/assets/img/2023-07-28-Hamming-Codes/bec_plot_rank_based.png)
