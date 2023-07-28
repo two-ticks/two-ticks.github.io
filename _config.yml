@@ -39,6 +39,9 @@ social-github: two-ticks
 social-linkedin: aditya-siddheshwar
 social-instagram: two.ticks
 
+# Google Analytics
+google_analytics: G-W2GE8C4LCC
+
 # Build settings
 theme: minima
 plugins:
