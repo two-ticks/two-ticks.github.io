@@ -43,12 +43,12 @@ social-instagram: two.ticks
 google_analytics: G-W2GE8C4LCC
 
 # Build settings
-# theme: minima
-remote_theme: jekyll/minima
+theme: minima
+# remote_theme: jekyll/minima
 plugins:
-  - jekyll-remote-theme
-  # - jekyll-feed
-  # - jemoji
+  # - jekyll-remote-theme
+  - jekyll-feed
+  - jemoji
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
