@@ -43,8 +43,10 @@ social-instagram: two.ticks
 google_analytics: G-W2GE8C4LCC
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jemoji
 # Exclude from processing.
