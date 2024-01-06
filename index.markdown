@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+{% include analytics.html %}
 {% include sidebar.html %}
 
 ## Hi there! :wave:
