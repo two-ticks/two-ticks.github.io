@@ -4,7 +4,7 @@ title: "Hamming Codes"
 date: 2023-07-27 10:56:14 +0530
 categories: jekyll update
 ---
-
+{% include analytics.html %}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 ### Hammming Code - (7, 4)
