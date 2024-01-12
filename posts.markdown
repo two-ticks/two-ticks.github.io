@@ -3,6 +3,7 @@ layout: default
 title: Posts
 permalink: /posts/
 ---
+{% include analytics.html %}
 
 ## Posts
 
