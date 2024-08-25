@@ -7,6 +7,8 @@ permalink: /research/
 
 I am an MS by Research student at [Signal Processing and Communication Research Centre (SPCRC)](https://spcrc.iiit.ac.in/), IIIT Hyderabad. I am working under the guidance of [Dr. Prasad Krishnan](https://faculty.iiit.ac.in/~prasad.krishnan/). My research interests include Error Correcting Codes, and Information Theory. 
 
+I am currently looking for PhD and research opportunities in the field of Error Correcting Codes, Information Theory, and Machine Learning. If you have any opportunities, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/aditya-siddheshwar/).
+
 ## Research Interests
 - Problems in Algebraic Coding Theory
 - Codes for Distributed Matrix Multiplication
