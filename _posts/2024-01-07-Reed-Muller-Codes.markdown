@@ -35,3 +35,4 @@ $$ d=2^{m-r}.$$
 ### First Order RM Codes
 
 The first order RM code is the code $$RM(1, m)$$, which is a $$(2^m, m+1, 2^{m-1})$$ code. By definition, every codeword $$c\in RM(1, m)$$ is evaluation of multivariate polynomial in $$\mathbb{F}_2[X_1, X_2, \cdots, X_m]$$ 
+
