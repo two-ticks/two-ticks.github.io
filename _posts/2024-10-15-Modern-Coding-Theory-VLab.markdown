@@ -11,3 +11,4 @@ categories: jekyll update
 1. [Review of Block Codes](https://virtual-labs.github.io/exp-block-codes-iiith/)
 1. [Binary-input Memoryless Channels](https://virtual-labs.github.io/exp-binary-input-channels-iiith/)
 1. [Maximum Likelihood Decoding of Linear Codes on Binary-Input Memoryless Channels](https://virtual-labs.github.io/exp-likelihood-decoding-iiith/)
+1. [Majority Logic Decoding of Reed-Muller Codes](https://virtual-labs.github.io/exp-majority-logic-reed-muller-iiith/)
