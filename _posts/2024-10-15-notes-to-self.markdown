@@ -23,11 +23,11 @@ source: [Writing Matters: Ravi Vakil, Professor of Mathematics at Stanford Unive
 - you should be able to convey the spirit of what you are doing with non-technical audience, and it is a difficult skill to learn.
 - the process of thinking is through doing what you are doing is very important. 
 
-### Why Review papers?
+### Why Reviewing papers is important?
 
-- Review papers are a great way to challenge yourself with a SPECIFIC topic and on the way you will learn a lot of things related to it. 
-- You will learn how to write a paper, how to structure it, and how to present your ideas.
-- understand there is a human on the other side who will be reading your review. Hence be careful about the language you use. Your task is not to judge them but to help them improve the paper in your best capacity (do understand your limitations). Overall it is with the spirit of science and scholarly communication.
+- Reviewing papers is a great way to challenge yourself with a specific topic, and along the way, you will learn a lot of things related to it.  
+- You will learn better ways to write, structure, and present your ideas.  
+- Understand there is a human on the other side who will be reading your review. Hence, be careful about the language you use. Your task is not to judge them but to help them improve the paper to the best of your ability (do understand your limitations). Overall, it is in the spirit of science and scholarly communication.  
 - Volunteering is very important for the community. It is a way to give back to the community and help others.
 
 ### Talking about research is not the same as doing research
@@ -36,3 +36,10 @@ source: [Writing Matters: Ravi Vakil, Professor of Mathematics at Stanford Unive
 
 ### I am here to learn
 source: [HERE TO LEARN (The Hard Way) | Tea Break](https://www.youtube.com/watch?v=3UazNgGGFGM&t=41s)
+
+### Find the simplest non-trivial example
+source: My Advisor
+
+### Cognitive load
+source: [Veritasium: What Everyone Gets Wrong About AI and Learning – Derek Muller Explains](https://youtu.be/0xS68sl2D70?si=xuuWPkgoKqdH6Lc1)
+- effortful thinking is required to activate the `slow` system. 
