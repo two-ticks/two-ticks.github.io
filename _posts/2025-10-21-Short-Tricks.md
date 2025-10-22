@@ -13,7 +13,7 @@ categories: jekyll update
 $$\binom{n}{k}= \binom{n-1}{k-1} + \binom{n-1}{k}$$
 {% endraw %}
 
-This could be though of as choosing one item and leaving one item while choosing $$k$$ items from $$n$$ items. 
+This could be thought of as choosing one item and leaving one item while choosing $$k$$ items from $$n$$ items. 
 
 Choose one item: We have $$\binom{n-1}{k-1}$$ ways to choose remaining $$k-1$$ items from $$n-1$$ items
 Leave one item: We have $$\binom{n-1}{k}$$ ways to choose $$k$$ items from remaining $$n-1$$ items. 
