@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Boyd"
+date: 2025-11-10 10:00:00 +0530
+categories: jekyll update
+---
+{% include analytics.html %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+### Boyd 
+
+These are some timestamps from Boyd. 
+
+### Most Common way of handling uncertainty?
+[![Watch the video](https://img.youtube.com/vi/N3V2AdTImJE/hqdefault.jpg)](https://youtu.be/N3V2AdTImJE?t=1596)
+
+### We know how to solve that
+[![Watch the video](https://img.youtube.com/vi/whE03c84ahA/hqdefault.jpg)](https://youtu.be/whE03c84ahA?t=3745)
+
+### Tricks to analyze convexity 
+[![Watch the video](https://img.youtube.com/vi/ijD2KSXWDyo/hqdefault.jpg)](https://youtu.be/ijD2KSXWDyo?t=0)
