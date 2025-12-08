@@ -11,6 +11,9 @@ categories: jekyll update
 
 These are some timestamps from Boyd. 
 
+### How far are you from global optimal?
+[![Watch the video](https://img.youtube.com/vi/wsRznzNgTS0/hqdefault.jpg)](https://youtu.be/wsRznzNgTS0?si=LfiGEOeEncfKky8v&t=1060)
+
 ### Most Common way of handling uncertainty?
 [![Watch the video](https://img.youtube.com/vi/N3V2AdTImJE/hqdefault.jpg)](https://youtu.be/N3V2AdTImJE?t=1596)
 
