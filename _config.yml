@@ -33,7 +33,7 @@ ignore_theme_config: true # this means to ignore theme's config _config.yml
 author: Aditya Siddheshwar # add your name
 author-img: two_ticks.png # add your photo
 about-author: >-
-  I often go by the name TwoTicks. I love Information Theory and Coding Theory. I am currently working in the area of Error Correcting Codes.
+  I often go by the name TwoTicks. I work in Information Theory and Coding Theory, with a focus on Error Correcting Codes.
 social-twitter: two__ticks
 social-github: two-ticks
 social-linkedin: aditya-siddheshwar
