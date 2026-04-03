@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some Random Short Tricks
+title: Some Short Math Tidbits
 date: 2025-10-20 23:44:00 +0530 
 categories: jekyll update
 ---
@@ -17,3 +17,11 @@ This could be thought of as choosing one item and leaving one item while choosin
 
 Choose one item: We have $$\binom{n-1}{k-1}$$ ways to choose remaining $$k-1$$ items from $$n-1$$ items
 Leave one item: We have $$\binom{n-1}{k}$$ ways to choose $$k$$ items from remaining $$n-1$$ items. 
+
+
+# Interchanging the order of summation
+
+{% raw %}
+$$\sum_{i=0}^{n} a_i \sum_{j=0}^{i} b_j = \sum_{j=0}^{n} b_j \sum_{i=j}^{n} a_i$$
+{% endraw %}
+
